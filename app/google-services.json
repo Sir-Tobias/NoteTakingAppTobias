@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159322740224",
+    "project_id": "auth-96260",
+    "storage_bucket": "auth-96260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159322740224:android:d40a6ac95080c49d1faae5",
+        "android_client_info": {
+          "package_name": "com.example.notetakingapptobias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159322740224-gjl6uak2dgal0rodknfrov3vtc6m0379.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH8rHDAgsmBBw7VnEflVjsMYCs3dKoEEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159322740224-gjl6uak2dgal0rodknfrov3vtc6m0379.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
